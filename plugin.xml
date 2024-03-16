@@ -1,0 +1,7 @@
+<plugin name="aa Big Fractals">
+ <author>Zoura3025</author>
+ <version>0.1</version>
+ <compatibility>^0\.12\..*</compatibility>
+ <description>A compatibility patch for "Big Largeness" and "Fractal Carriers".</description>
+ <source>https://naev.org</source>
+</plugin>
